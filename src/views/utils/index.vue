@@ -16,8 +16,8 @@
   </div>
 </template>
 <script>
-import compressImg from './test'
-import { decompression } from 'hsja-utils'
+// import compressImg from './test'
+import { decompression, compressImg } from 'hsja-utils'
 import axios from 'axios'
 export default {
   name: 'utils',
